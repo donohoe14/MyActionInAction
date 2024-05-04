@@ -1,7 +1,7 @@
 name: "donohoe14's Action in Action"
 description: 'Greets someone and returns always 42.'
 inputs:
-  who-to-greet:  donkeyhoehoe
+  who-to-greet:  'donkeyhoehoe'
     description: 'Who to greet'
     required: true
     default: 'World'
